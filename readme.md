@@ -1,11 +1,10 @@
-# Lern-Periode 5
+# Lern-Periode 1
 
-23.4 bis 25.6.2024
+30.8 bis 20.9
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+Im Modul 319 war ich super, aber ich habe gemerkt, dass ich mit `for` Mühe habe. Darum möchte ich das üben. Eine Idee wäre, dass ich einen Vokabel-Trainer programmieren könnte.
 
 ## 23.4.2024
 
