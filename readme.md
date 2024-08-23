@@ -1,9 +1,11 @@
-# Lern-Periode 1
+# Lern-Periode 5
 
-23.8. bis 15.10.2024
+23.4 bis 25.6.2024
 
 ## Grob-Planung
-Ich möchte eimefklasdglsadlsdlsgsl
+
+1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+4. Was wäre ein geeignetes Projekt für diese LP5?
 
 ## 23.4.2024
 
