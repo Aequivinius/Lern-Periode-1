@@ -12,3 +12,8 @@ Im Modul 319 war ich super, aber ich habe gemerkt, dass ich mit `for` Mühe habe
 - [ ] Ich kann Wörter-Paare eingeben und sie werden in einem `array` gespeichert...
 
 Heute habe ich meinen ersten Code geschrieben.
+
+## 6.9.2024
+
+- [ ] Programm reagiert auf falsche Benutzereingaben
+- [ ] 
