@@ -9,4 +9,6 @@ Im Modul 319 war ich super, aber ich habe gemerkt, dass ich mit `for` Mühe habe
 ## 30.8.2024
 
 - [x] Ich kann den Benutzer nach seinem Namen fragen und wieder ausgeben
-- [ ] Ich kann Wörter-Paare eingeben und sie werden in einem `array` gespeichert..
+- [ ] Ich kann Wörter-Paare eingeben und sie werden in einem `array` gespeichert...
+
+Heute habe ich meinen ersten Code geschrieben.
