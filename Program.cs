@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
 
-        int myNumber = 10;
+        int myNumber = 15;
         string b = "_______________________A";
         string c = "_______________________";
         int result = myNumber + 5;
