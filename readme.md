@@ -16,4 +16,6 @@ Heute habe ich meinen ersten Code geschrieben.
 ## 6.9.2024
 
 - [ ] Programm reagiert auf falsche Benutzereingaben
-- [ ] 
+
+
+- [ ] dgjasöldgöalskg
