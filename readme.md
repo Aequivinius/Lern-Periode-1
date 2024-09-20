@@ -2,6 +2,13 @@
 
 30.8 bis 20.9
 
+## fertiges Projekt
+
+Ich habe ein kleines Spiel programmiert, bei dem der Bentzer eine zufällige Zahl erraten kann.
+
+![Screenshot 2024-09-20 103841](https://github.com/user-attachments/assets/97da194a-93e4-444c-a52f-2cf8a9f4190c)
+
+
 ## Grob-Planung
 
 Im Modul 319 war ich super, aber ich habe gemerkt, dass ich mit `for` Mühe habe. Darum möchte ich das üben. Eine Idee wäre, dass ich einen Vokabel-Trainer programmieren könnte.
