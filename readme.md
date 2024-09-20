@@ -8,6 +8,9 @@ Ich habe ein kleines Spiel programmiert, bei dem der Bentzer eine zufällige Zah
 
 ![Screenshot 2024-09-20 103841](https://github.com/user-attachments/assets/97da194a-93e4-444c-a52f-2cf8a9f4190c)
 
+![Recording 2024-09-20 072830](https://github.com/user-attachments/assets/6299586b-b8a9-4c93-9fad-a30efd9b6de9)
+
+
 
 ## Grob-Planung
 
